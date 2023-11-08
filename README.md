@@ -2,6 +2,7 @@
 - 💻 I’m currently working as a QA Engineer.
 - 📖 I'm constantly learning, with a particular focus on Selenium Web Driver.
 - 📓 Now I'm learning Korean, I enjoy learning languages.
+- 📒 This is my Notion page where I share notes I have taken throughout my QA journey: [https://irisrodriguez.notionlinker.com]
 - 💬 Feel free to reach out to me for inquiries about QA and Automation Testing or to share your own experiences and insights in the testing field.
 - 👀 Visit my portfolio: [https://andywest14.github.io/](https://andywest14.github.io/)
   
