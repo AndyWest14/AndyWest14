@@ -20,7 +20,7 @@
 <a href="https://github.com/AndyWest14">
   <img  src="https://github-readme-stats.vercel.app/api?username=AndyWest14&count_private=true&show_icons=true&theme=tokyonight" /></a>
 <a href="[https://github.com/AndyWest14/](https://github.com/AndyWest14)">
-  <img hwight= 40%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyWest14&layout=compact&theme=tokyonight" /></a>
+  <img height= 40%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyWest14&layout=compact&theme=tokyonight" /></a>
 <p>&nbsp;</p>
 
  <a href="https://github.com/AndyWest14"> <img src="https://komarev.com/ghpvc/?username=AndyWest14&label=Profile+Views&color=grey&style=for-the-badge" /></a>
