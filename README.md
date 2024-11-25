@@ -1,5 +1,5 @@
 ## 📚 About Me:
-- 💻 I’m currently working as a QA Engineer.
+- 💻 I’m currently working as a QA Engineer and Perfomance tester.
 - 📖 I'm constantly learning, with a particular focus on Selenium Web Driver.
 - 📓 Now I'm learning Korean, I enjoy learning languages.
 - 📒 This is my Notion page where I share notes I have taken throughout my QA journey: [https://irisrodriguez.notionlinker.com](https://irisrodriguez.notionlinker.com)
